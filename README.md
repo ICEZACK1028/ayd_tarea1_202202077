@@ -2,8 +2,8 @@
 
 ## API
 - Endpoint: `/` (GET)
-- Respuesta **release-1.0**: nombre + **canción** (captura)
-- Respuesta **release-2.0**: nombre + **álbum** (captura)
+- Respuesta **release-1.0**: nombre + **canción**
+- Respuesta **release-2.0**: nombre + **álbum**
 
 ## Flujo de Git
 1. `git tag -a release-1.0 -m "Versión inicial: nombre + canción"`
@@ -17,7 +17,6 @@
 - `git log --oneline --graph --decorate --all`
 
 ![git log --oneline --graph --decorate --all](screenshots/cap1.png)
-
 - `git tag`
 
 ![git log --oneline --graph --decorate --all](screenshots/cap2.png)
