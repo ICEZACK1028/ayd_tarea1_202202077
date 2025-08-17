@@ -16,16 +16,16 @@
 ### Capturas
 - `git log --oneline --graph --decorate --all`
 
-![git log --oneline --graph --decorate --all](screenshots/cap1.png)
+![git log --oneline --graph --decorate --all](api-favoritos/screenshots/cap1.png)
 - `git tag`
 
-![git log --oneline --graph --decorate --all](screenshots/cap2.png)
+![git tag](api-favoritos/screenshots/cap2.png)
 - Eliminación de la rama `hotfix`
 
-![git log --oneline --graph --decorate --all](screenshots/cap3.png)
+![Eliminación de la rama `hotfix`](api-favoritos/screenshots/cap3.png)
 - Respuesta de la API
 
-![git log --oneline --graph --decorate --all](screenshots/cap4.png)
+![Respuesta de la API](api-favoritos/screenshots/cap4.png)
 
 ## Repositorio
 https://github.com/ICEZACK1028/ayd_tarea1_202202077 
