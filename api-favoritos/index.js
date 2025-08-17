@@ -4,8 +4,8 @@ const app = express();
 const data = {
     nombre: "David Isaac García Mejía",
     favorito: {
-        tipo: "cancion",
-        valor: "ANDRÓMEDA - WOS"
+        tipo: "album",
+        valor: "CARAVANA"
     }
 };
 
